@@ -5,7 +5,7 @@
 
  </h4>
 <p align="center">
- <img width="900" src="https://files.catbox.moe/b15guh.jpg"
+ <img width="500" src="https://files.catbox.moe/b15guh.jpg"
  </p>
 
 
