@@ -8,9 +8,3 @@
  <img width="500" src="https://files.catbox.moe/b15guh.jpg"
  </p>
 
-
-<p align="center">
- <img width="20" src="https://i.imgur.com/urzELT7.gif"
-  </p>
- ‎ 
-<a 
